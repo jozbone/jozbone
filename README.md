@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋, I'm JB.
+##### I like software architecture, writing code, and learning new things.
+
+[![An image of @joz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joz)](https://holopin.io/@joz)
 
 <!--
 **jozbone/jozbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
